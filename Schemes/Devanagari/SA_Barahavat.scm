@@ -64,7 +64,7 @@ Sa श
 Sha ष
 sa स
 ha ह
-`la ळ
+.la ळ
 
 class VowelSigns {
   aa ा
@@ -126,7 +126,7 @@ S श्
 Sh ष्
 s स्
 h ह्
-`l ळ्
+.l ळ्
 
 k{VowelSigns} क*
 kh{VowelSigns} ख*
@@ -166,7 +166,7 @@ S{VowelSigns} श*
 Sh{VowelSigns} ष*
 s{VowelSigns} स*
 h{VowelSigns} ह*
-`l{VowelSigns} ळ*
+.l{VowelSigns} ळ*
 
 0 ०
 1 १
@@ -180,7 +180,7 @@ h{VowelSigns} ह*
 9 ९
 
 M ं
-`m ँ
+.m ँ
 H ः
 x ᳳ
 f ᳲ
@@ -189,23 +189,23 @@ f ᳲ
 | ।
 ! ॥
 aum ॐ
-`. ॰
+.. ॰
 
 ' ॑
 ''  ᳚
 ''' 
 _ ॒
 
-`Mq ꣳ
-`M_ 
-`M' 
-`M'' 
-`MMq ꣴ
-`MM_ 
-`MM' 
-`MM'' 
-`1 
-`3 
+.mq ꣳ
+.m_ 
+.m' 
+.m'' 
+.mmq ꣴ
+.mm_ 
+.mm' 
+.mm'' 
+.m1 
+.m3 
 
 ^ ‍
 ^^ ‌
