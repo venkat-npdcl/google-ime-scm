@@ -1,5 +1,5 @@
 version: 1.0
-name: ITRANS
+name: TA_ITRANS
 stop-char: _
 using classes
 class-delimiters: { }

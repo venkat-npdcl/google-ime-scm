@@ -1,5 +1,5 @@
 version: 1.0
-name: Barahavat
+name: TA_Barahavat
 stop-char: \
 using classes
 class-delimiters: { }

@@ -1,5 +1,5 @@
 version: 1.0
-name: Baraha
+name: TE_Baraha
 stop-char: \
 using classes
 class-delimiters: { }
