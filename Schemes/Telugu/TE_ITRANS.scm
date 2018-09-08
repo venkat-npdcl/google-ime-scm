@@ -6,6 +6,7 @@ class-delimiters: { }
 wildcard: #
 
 a అ
+a ఎ 
 aa ఆ
 A ఆ
 i ఇ
